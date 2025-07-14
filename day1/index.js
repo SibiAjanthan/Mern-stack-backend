@@ -3,7 +3,7 @@
 // console.log("hello world");
 
 // fs module
-const fs = require('fs');
+// const fs = require('fs');
 
 // async read write append delete
 
@@ -39,5 +39,5 @@ const fs = require('fs');
 // console.log('✅ File written ');
 
 
-fs.unlinkSync('sibi2.txt');
-console.log('✅ File filedeleted ');
+// fs.unlinkSync('sibi2.txt');
+// console.log('✅ File filedeleted ');
